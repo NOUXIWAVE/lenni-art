@@ -1,0 +1,28 @@
+{
+  "name": "lenni-art",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@oxc-parser/binding-linux-x64-gnu": "^0.137.0",
+    "@pinia/nuxt": "^0.11.3",
+    "@vueform/multiselect": "^2.6.11",
+    "@vuepic/vue-datepicker": "^14.0.0",
+    "maska": "^3.2.0",
+    "nuxt": "^4.4.8",
+    "oxc-parser": "^0.133.0",
+    "pinia": "^3.0.4",
+    "swiper": "^14.0.0",
+    "vue": "^3.5.38",
+    "vue-router": "^5.1.0"
+  },
+  "devDependencies": {
+    "sass": "^1.101.0"
+  }
+}
